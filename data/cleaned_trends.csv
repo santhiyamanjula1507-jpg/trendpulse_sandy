@@ -1,0 +1,121 @@
+post_id,title,category,score,num_comments,author,collected_at
+47697870,LittleSnitch for Linux,other,732,227,pluc,2026-04-09 15:29:35
+47699181,Open Source Security at Astral,other,182,36,vinhnx,2026-04-09 15:29:37
+47691730,I ported Mac OS X to the Nintendo Wii,other,1584,277,blkhp19,2026-04-09 15:29:39
+47658950,Haunted Paper Toys,other,87,3,exvi,2026-04-09 15:29:41
+47660434,C# in Unity 2026: Features Most Developers Still Don't Use,other,16,3,hacker_13,2026-04-09 15:29:42
+47701100,Creating the Futurescape for the Fifth Element [2019],other,15,3,nixass,2026-04-09 15:29:45
+47700388,Help Keep Thunderbird Alive,other,29,15,playfultones,2026-04-09 15:29:46
+47701233,Claude mixes up who said what and that's not OK,technology,3,0,sixhobbits,2026-04-09 15:29:50
+47699814,Process Manager for Autonomous AI Agents,technology,36,9,ankitg12,2026-04-09 15:29:52
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,technology,301,38,WerWolv,2026-04-09 15:29:54
+47645010,Dr. Dobb's Developer Library DVD 6,other,38,11,kristianp,2026-04-09 15:29:57
+47693153,Understanding the Kalman filter with a simple radar example,other,343,45,alex_be,2026-04-09 15:29:59
+47666639,The Importance of Being Idle,other,181,105,Caiero,2026-04-09 15:30:02
+47688678,They're made out of meat (1991),other,542,150,surprisetalk,2026-04-09 15:30:04
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,technology,3,0,kisamoto,2026-04-09 15:30:07
+47685320,Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator,other,490,560,jfirebaugh,2026-04-09 15:30:09
+47632157,"Improving storage efficiency in Magic Pocket, Dropbox's immutable blob store",other,10,0,laluser,2026-04-09 15:30:12
+47689648,ML promises to be profoundly weird,other,503,491,pabs3,2026-04-09 15:30:15
+47678690,Six (and a half) intuitions for KL divergence,other,81,11,jxmorris12,2026-04-09 15:30:17
+47687273,Git commands I run before reading any code,technology,2050,440,grepsedawk,2026-04-09 15:30:19
+47692043,Muse Spark: Scaling towards personal superintelligence,worldnews,341,329,chabons,2026-04-09 15:30:21
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,297,54,chrsw,2026-04-09 15:30:24
+47648538,I imported the full Linux kernel git history into pgit,other,129,20,ImGajeed76,2026-04-09 15:30:27
+47694983,Expanding Swift's IDE Support,other,116,55,frizlab,2026-04-09 15:30:29
+47643852,Map Gesture Controls - Control maps with your hands,other,28,5,hebelehubele,2026-04-09 15:30:31
+47656730,Understanding Traceroute,other,129,22,stonecharioteer,2026-04-09 15:30:33
+47654062,Ask HN: Any interesting niche hobbies?,other,367,545,e-topy,2026-04-09 15:30:36
+47666398,Show HN: A (marginally) useful x86-64 ELF executable in 301 bytes,entertainment,43,9,meribold,2026-04-09 15:30:38
+47696035,John Deere to pay $99M in right-to-repair settlement,technology,312,102,CharlesW,2026-04-09 15:30:40
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,entertainment,108,47,DamnInteresting,2026-04-09 15:30:42
+47675446,Audio Reactive LED Strips Are Diabolically Hard,other,228,63,surprisetalk,2026-04-09 15:30:45
+47645717,Union types in C# 15,other,206,184,0x00C0FFEE,2026-04-09 15:30:47
+47686549,Veracrypt project update,other,1219,447,super256,2026-04-09 15:30:50
+47696562,Show HN: Is Hormuz open yet?,entertainment,397,167,anonfunction,2026-04-09 15:30:53
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,technology,365,175,nickvec,2026-04-09 15:30:55
+47689237,US cities are axing Flock Safety surveillance technology,technology,709,400,giuliomagnifico,2026-04-09 15:30:57
+47687248,Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones,other,572,566,ra,2026-04-09 15:31:00
+47690977,"Microsoft terminates VeraCrypt account, halting Windows updates",other,534,210,donohoe,2026-04-09 15:31:02
+47694036,Show HN: Orange Juice – Small UX improvements that make HN easier to read,entertainment,118,135,latchkey,2026-04-09 15:31:04
+47661297,What does it mean to “write like you talk”?,other,73,68,surprisetalk,2026-04-09 15:31:07
+47656518,Your File System Is Already A Graph Database,technology,172,72,alxndr,2026-04-09 15:31:10
+47700821,"Veteran artist behind Mass Effect, Halo, & Overwatch 2 weighs in on Nvidia DLSS5",other,6,0,DarrylLinington,2026-04-09 15:31:13
+47701041,Nigel Farage wants to build a British ICE. Starmer may have handed him the tools,other,5,3,doener,2026-04-09 15:31:16
+47698067,You Can Just Print an Air Purifier,technology,20,0,zdw,2026-04-09 15:31:18
+47659135,Sam Altman may control our future – can he be trusted?,other,2097,882,adrianhon,2026-04-09 15:31:21
+47679121,Project Glasswing: Securing critical software for the AI era,technology,1493,803,Ryan5453,2026-04-09 15:31:23
+47653642,Binary obfuscation that doesn't kill LTO,other,137,94,noztol,2026-04-09 15:31:29
+47674606,Show HN: Unicode Steganography,technology,51,13,PatrickVuscan,2026-04-09 15:31:31
+47697641,Claude Managed Agents Overview,other,23,16,NicoJuicy,2026-04-09 15:31:33
+47660766,Exposing and Understanding Scrolling Transfer Functions (2012) [pdf],other,13,0,t23414321,2026-04-09 15:31:38
+47690797,Show HN: Go-Bt: Minimalist Behavior Trees for Go,entertainment,57,8,rvitorper,2026-04-09 15:31:40
+47693585,How Costco Won in Japan,other,42,22,gmays,2026-04-09 15:31:43
+47676509,Lunar Flyby,other,940,242,kipi,2026-04-09 15:31:45
+47634422,Native Americans had dice 12k years ago,other,133,82,delichon,2026-04-09 15:31:48
+47622436,Slightly safer vibecoding by adopting old hacker habits,other,173,92,transpute,2026-04-09 15:31:51
+47692661,Show HN: TUI-use: Let AI agents control interactive terminal programs,technology,43,36,dreamsome,2026-04-09 15:31:55
+47689319,Show HN: Skrun – Deploy any agent skill as an API,technology,51,9,frizull,2026-04-09 15:31:57
+47648307,Virtual Mars Traverse: Every inch of Curiosity rover's path since 2012 landing,other,45,16,bookofjoe,2026-04-09 15:32:00
+47698082,Newly created Polymarket accounts win big on well-timed Iran ceasefire bets,other,137,102,mitchbob,2026-04-09 15:32:02
+47699090,'There's a lot of desperation': older workers turn to AI training to stay afloat,technology,27,7,Stratoscope,2026-04-09 15:32:06
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,102,30,pruz,2026-04-09 15:32:09
+47661038,Show HN: I built a navigation app that displays weather along the route,entertainment,51,22,vkatluri,2026-04-09 15:32:11
+47685945,We moved Railway's frontend off Next.js. Builds went from 10+ mins to under 2,technology,209,196,bundie,2026-04-09 15:32:13
+47697895,Building a JavaScript runtime in one month,other,12,6,franciscop,2026-04-09 15:32:16
+47657204,Show HN: We built a camera only robot vacuum for less than 300$ (Well almost),entertainment,103,57,indraneelpatil,2026-04-09 15:32:18
+47685739,Revision Demoparty 2026: Razor1911 [video],other,370,124,tetrisgm,2026-04-09 15:32:23
+47624572,A database of analog cameras that can be 3D printed,technology,161,26,thomasjb,2026-04-09 15:32:25
+47699105,Show HN: Image to Music AI – Turn Any Photo into an Original Soundtrack,technology,4,2,airobus,2026-04-09 15:32:28
+47682276,US and Iran agree to provisional ceasefire,other,593,1960,g-b-r,2026-04-09 15:32:30
+47622717,Study investigates how mass distribution of baseball bat affects performance,science,23,17,Magi604,2026-04-09 15:32:33
+47679258,System Card: Claude Mythos Preview [pdf],other,829,633,be7a,2026-04-09 15:32:35
+47682719,Xilem – An experimental Rust native UI framework,other,138,83,Levitating,2026-04-09 15:32:37
+47693047,Claude Managed Agents,other,158,70,adocomplete,2026-04-09 15:32:40
+47675302,9 Mothers (YC P26) Is Hiring – Lead Robotics and More,other,1,0,ukd1,2026-04-09 15:32:42
+47696558,Finetuning Activates Verbatim Recall of Copyrighted Books in LLMs,technology,12,3,guitarlimeo,2026-04-09 15:32:45
+47637665,The Clock,other,98,42,senko,2026-04-09 15:32:47
+47675372,Has electricity decoupled from natural gas prices in Germany?,other,139,205,konschubert,2026-04-09 15:32:50
+47687464,Mario and Earendil,other,64,39,doppp,2026-04-09 15:32:52
+47677853,GLM-5.1: Towards Long-Horizon Tasks,worldnews,610,253,zixuanlimit,2026-04-09 15:32:55
+47684514,Protect your shed,other,306,79,baely,2026-04-09 15:32:57
+47658104,The Image Boards of Hayao Miyazaki,other,200,16,vinhnx,2026-04-09 15:32:59
+47690434,Iran demands Bitcoin fees for ships passing Hormuz during ceasefire,other,159,251,pavlov,2026-04-09 15:33:02
+47654626,A whole boss fight in 256 bytes,other,124,50,HellMood,2026-04-09 15:33:05
+47678573,Cambodia unveils statue to honour famous landmine-sniffing rat,other,475,126,speckx,2026-04-09 15:33:07
+47663147,Launch HN: Freestyle – Sandboxes for Coding Agents,other,320,156,benswerd,2026-04-09 15:33:10
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,776,233,sam-bee,2026-04-09 15:33:12
+47672295,Every GPU That Mattered,technology,328,203,jonbaer,2026-04-09 15:33:14
+47646646,What does ⍋⍋ even mean? (2023),other,43,20,tosh,2026-04-09 15:33:16
+47696263,Vera – A language designed for machines to write,other,10,1,joecobb,2026-04-09 15:33:19
+47691686,Little Snitch for Linux,other,17,2,robenkleene,2026-04-09 15:33:21
+47650887,How to get better at guitar,other,457,249,jwworth,2026-04-09 15:33:23
+47697679,I built a tool to let you export your X bookmarks and categorize them,entertainment,15,7,xarchive,2026-04-09 15:33:26
+47675893,A blind man made it possible for others with low vision to build Lego sets,other,87,14,speckx,2026-04-09 15:33:28
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,54,18,zdw,2026-04-09 15:33:30
+47657268,A truck driver spent 20 years making a scale model of every building in NYC,other,395,67,1659447091,2026-04-09 15:33:32
+47691466,Open Source Security at Astral,other,30,3,woodruffw,2026-04-09 15:33:36
+47683376,JSIR: A High-Level IR for JavaScript,other,82,31,nnx,2026-04-09 15:33:38
+47680404,S3 Files,other,370,111,werner,2026-04-09 15:33:40
+47680124,IPv6 is the only way forward,worldnews,99,297,quaintdev,2026-04-09 15:33:44
+47675155,You can't cancel a JavaScript promise (except sometimes you can),other,95,59,goodoldneon,2026-04-09 15:33:47
+47664836,AI helps add 10k more photos to OldNYC,technology,142,50,evakhoury,2026-04-09 15:33:49
+47681274,Bitcoin and quantum computing,other,166,129,nehan,2026-04-09 15:33:52
+47692603,Pgfmt – a PostgreSQL specific SQL formatter,other,17,0,whalesalad,2026-04-09 15:33:55
+47696210,AMD AI director says Claude Code is becoming dumber and lazier since update,technology,45,11,Logans_Run,2026-04-09 15:34:09
+47697904,Claude Glass (Or Black Mirror),other,24,4,sram1337,2026-04-09 15:34:12
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,283,66,frasermarlow,2026-04-09 15:34:14
+47675625,Cloudflare targets 2029 for full post-quantum security,technology,380,112,ilreb,2026-04-09 15:34:16
+47694093,"One item purchased, ten emails",technology,122,94,speckx,2026-04-09 15:34:19
+47671219,John Coltrane illustrates the mathematics of jazz,other,130,22,luu,2026-04-09 15:34:21
+47667321,Peptides: where to begin?,other,261,401,A_D_E_P_T,2026-04-09 15:34:23
+47697479,WireGuard VPN developer's Microsoft account locked,other,32,8,worik,2026-04-09 15:34:25
+47643326,Hobby CNC machining and resin casting (2015),other,40,11,achierius,2026-04-09 15:34:29
+47691174,Show HN: Explore the Silk Roads through an interactive map,entertainment,47,6,intofarlands,2026-04-09 15:34:31
+47672884,Identify a London Underground Line just by listening to it,other,181,58,nelson687,2026-04-09 15:34:33
+47676557,Moving fast in hardware: lessons from lab to $100M ARR,worldnews,113,26,rryan,2026-04-09 15:34:35
+47654629,The Harvard Library Passport,sports,40,15,fi-le,2026-04-09 15:34:38
+47693407,Show HN: 500k+ events/sec transformations for ClickHouse ingestion,entertainment,12,3,super_ar,2026-04-09 15:34:43
+47680309,Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon,entertainment,224,27,MediaSquirrel,2026-04-09 15:34:50
+47637353,SQLite in Production: Lessons from Running a Store on a Single File,other,204,128,thunderbong,2026-04-09 15:34:52
+47669337,Solod – A subset of Go that translates to C,other,174,48,TheWiggles,2026-04-09 15:34:57
